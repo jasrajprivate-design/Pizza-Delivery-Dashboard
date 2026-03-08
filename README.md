@@ -17,7 +17,7 @@ This project analyzes pizza delivery data using Microsoft Excel to identify cust
 - Traffic conditions impact delivery time, with high traffic increasing average delivery duration.
 
 ## Key Metrics
-- Total Orders: 1004  
+- Total Orders: 1005  
 - Average Delivery Time: 29 minutes
 
 ## Skills Demonstrated
