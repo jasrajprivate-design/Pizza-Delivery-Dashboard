@@ -1,2 +1,28 @@
-# Pizza Delivery Dashboard
-# Pizza Delivery Data Analysis – Excel Dashboard  ## Project Overview This project analyzes pizza delivery data using Microsoft Excel to understand customer ordering behavior, delivery performance, and operational factors affecting delivery time. The goal was to transform raw data into meaningful insights through data cleaning, pivot tables, and interactive visualizations.  ## Tools Used - Microsoft Excel - Pivot Tables - Excel Formulas - Data Visualization (Charts) - Conditional Formatting  ## Dataset Description The dataset contains information related to pizza orders and deliveries including:  - Order ID - Restaurant Name - Location - Order Time - Delivery Time - Delivery Duration - Pizza Size - Pizza Type - Number of Toppings - Distance - Traffic Level - Payment Method - Peak Hour Indicator - Weekend Indicator  ## Key Performance Indicators (KPIs) - Total Orders: 1004 - Average Delivery Time: 29 minutes - Most Popular Pizza Size: Medium  ## Dashboard Insights  ### 1. Orders by Pizza Size The analysis shows that Medium-sized pizzas are the most frequently ordered, followed by Large and XL sizes, while Small pizzas have the lowest demand.  ### 2. Pizza Type Popularity Customer preferences indicate higher demand for Non-Veg and Veg pizzas, while specialty types such as Thin Crust and Deep Dish have significantly lower orders.  ### 3. Orders by Location Order volume varies across cities, with some locations generating significantly higher demand. This insight can help businesses focus marketing and delivery resources more effectively.  ### 4. Traffic Impact on Delivery Time Traffic conditions significantly affect delivery performance: - High Traffic: Average delivery time ~35 minutes - Medium Traffic: Average delivery time ~29 minutes - Low Traffic: Average delivery time ~23 minutes  This highlights the importance of traffic-aware delivery planning.  ## Features of the Dashboard - Interactive Pivot Tables - Visual charts for quick analysis - Conditional formatting to highlight trends - KPI indicators for quick performance monitoring  ## Skills Demonstrated - Data Cleaning - Data Analysis - Excel Dashboard Creation - Business Insight Generation - Data Visualization  ## Conclusion This project demonstrates how Excel can be used to transform raw operational data into actionable insights. The dashboard helps identify customer preferences, operational bottlenecks, and factors impacting delivery performance.  ## Project Author Jasraj Singh
+# Pizza Delivery Data Analysis – Excel Dashboard
+
+## Overview
+This project analyzes pizza delivery data using Microsoft Excel to identify customer ordering patterns and delivery performance. The dataset was cleaned and analyzed using Excel tools such as Pivot Tables, formulas, and charts to build an interactive dashboard.
+
+## Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Excel Formulas  
+- Data Visualization (Charts)  
+- Conditional Formatting  
+
+## Key Insights
+- Medium pizzas are the most frequently ordered, followed by Large and XL sizes.  
+- Non-Veg and Veg pizzas are the most popular pizza types among customers.  
+- Order volume varies significantly across cities, indicating different regional demand levels.  
+- Traffic conditions impact delivery time, with high traffic increasing average delivery duration.
+
+## Key Metrics
+- Total Orders: 1004  
+- Average Delivery Time: 29 minutes
+
+## Skills Demonstrated
+Data Cleaning, Data Analysis, Dashboard Creation, and Data Visualization using Excel.
+
+This project demonstrates how Excel can transform raw operational data into meaningful business insights through interactive dashboards and visual analytics.
+
+Author: Jasraj Singh
